@@ -36,8 +36,8 @@ I’m a student developer who enjoys learning by building projects and solving p
 ---
 
 ## My Projects Made
--https://github.com/GabrielPogoy/GabsPortfolio
-- https://github.com/GabrielPogoy/PlatformFinal
++ https://github.com/GabrielPogoy/GabsPortfolio
++ https://github.com/GabrielPogoy/PlatformFinal
 
 
 ## 📫 Connect With Me
